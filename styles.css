@@ -1,0 +1,29 @@
+.title {
+    font-size: 75px;
+}
+
+.headings,
+.title {
+    font-family: garamond, serif;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: helvetica, sans-serif;
+}
+
+div.container{
+    text-align: center;
+    font-family: helvetica, sans-serif;
+}
+
+ul.ul {
+    text-align: left;
+    display: inline-block;
+}
+
+ol.ol {
+    text-align: left;
+    display: inline-block;
+}
